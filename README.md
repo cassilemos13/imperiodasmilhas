@@ -53,9 +53,51 @@ Quais são as melhores estratégias para acumular milhas no dia a dia sem gastar
 
 O notebook apresentou o conceito de acúmulo orgânico, que consiste em aproveitar os gastos que já seriam realizados para gerar pontos, sem aumentar as despesas.
 
-Uma das estratégias apresentadas foi concentrar os gastos no cartão de crédito, aproveitando os programas de recompensas.
+As principais estratégias apresentadas foram:
 
-**Fontes:** Resposta fundamentada nas fontes adicionadas ao notebook, com citações apresentadas na conversa.
+- Concentrar os gastos cotidianos em um cartão de crédito ou programa de recompensas.
+- Evitar pulverizar os gastos em vários cartões.
+- Comprar por meio de portais de compras bonificadas.
+- Aproveitar campanhas de pontos e oportunidades de acúmulo.
+
+**Fontes utilizadas na resposta:**
+
+1. [Como Emitir Passagem com Milhas em 2026 – Viajando Barato Pelo Mundo](https://viajandobaratopelomundo.com.br/como-emitir-passagem-com-milhas/)
+2. [Como acumular milhas aéreas no Brasil: 5 estratégias para o dia a dia – Unlocked Travel](https://unlockedtravel.com.br/viagens-e-milhas/como-acumular-milhas-aereas-no-brasil-5-estrategias-para-o-dia-a-dia/)
+3. [Como acumular milhas aéreas no Brasil – Unlocked Travel](https://unlockedtravel.com.br/viagens-e-milhas/como-acumular-milhas-aereas-no-brasil-5-estrategias-para-o-dia-a-dia/)
+4. [Principais programas de pontos no Brasil – Livelo](https://www.livelo.com.br/principais-programas-de-pontos-brasil)
+
+**Critério de confiabilidade:** Foram consideradas a identificação dos responsáveis pelo conteúdo, a relação direta com o tema e a especialização das fontes. A Livelo foi utilizada como fonte oficial para informações sobre seu próprio programa. Os artigos especializados foram utilizados como referências complementares para estratégias de acúmulo e emissão.
+
+### Pergunta 2
+
+**Pergunta:**
+
+Como acumular milhas com cartões de crédito?
+
+**Resposta:**
+
+O notebook explicou que a estratégia de acumular milhas com cartões de crédito envolve concentrar os gastos e combinar diferentes ferramentas de pontuação.
+
+As principais estratégias apresentadas foram:
+
+- Centralizar os gastos cotidianos no cartão de crédito principal.
+- Evitar pulverizar os gastos em diferentes cartões.
+- Praticar o Double Dip, combinando a pontuação do cartão com os pontos de portais de compras.
+- Aproveitar programas parceiros, como Livelo, Esfera e Shopping Smiles.
+
+**Fontes utilizadas na resposta:**
+
+1. [Como acumular milhas aéreas no Brasil: 5 estratégias para o dia a dia – Unlocked Travel](https://unlockedtravel.com.br/viagens-e-milhas/como-acumular-milhas-aereas-no-brasil-5-estrategias-para-o-dia-a-dia/)
+2. [Como acumular milhas aéreas no Brasil – Unlocked Travel](https://unlockedtravel.com.br/viagens-e-milhas/como-acumular-milhas-aereas-no-brasil-5-estrategias-para-o-dia-a-dia/)
+3. [Principais programas de pontos no Brasil – Livelo](https://www.livelo.com.br/principais-programas-de-pontos-brasil)
+4. [Como Emitir Passagem com Milhas em 2026: a Estratégia que Ninguém Te Conta – Viajando Barato Pelo Mundo](https://viajandobaratopelomundo.com.br/como-emitir-passagem-com-milhas/)
+
+**Critério de confiabilidade:**
+
+Foram consideradas fontes especializadas em milhas e programas de fidelidade, além de conteúdo institucional da Livelo. A fonte da Livelo foi utilizada para informações sobre seu ecossistema de pontos, enquanto os artigos especializados contribuíram com estratégias de acúmulo e utilização de milhas.
+
+As condições de cartões, programas e campanhas devem ser conferidas nos canais oficiais antes de qualquer decisão financeira.
 
 ## 5. Materiais produzidos
 
