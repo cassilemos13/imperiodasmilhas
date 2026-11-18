@@ -37,9 +37,11 @@ As informações sobre promoções, regras e validade das milhas devem ser verif
 
 ## 3. Diretriz de comportamento do notebook
 
-O notebook foi criado para atuar como um especialista em milhas aéreas, utilizando as fontes adicionadas como base para suas respostas.
+O notebook foi desenvolvido a partir da adição de fontes de pesquisa sobre milhas aéreas, programas de fidelidade e estratégias de acúmulo e utilização de pontos.
 
-A proposta é organizar o conhecimento, explicar conceitos de maneira clara, apresentar estratégias práticas e indicar as fontes utilizadas nas respostas.
+Não foi definida uma instrução personalizada inicial. O aprendizado aconteceu por meio de perguntas feitas diretamente ao NotebookLM, que utilizou as fontes adicionadas para elaborar respostas e apresentar citações que permitem consultar a origem das informações.
+
+A proposta foi utilizar a ferramenta como um assistente de estudos, facilitando a organização do conhecimento e a compreensão do universo das milhas aéreas.
 
 ## 4. Perguntas e respostas realizadas
 
