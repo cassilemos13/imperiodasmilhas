@@ -12,19 +12,28 @@ O objetivo é compreender como aproveitar melhor os programas de fidelidade e id
 
 ## 2. Fontes utilizadas
 
-O notebook foi construído a partir de 18 fontes, conforme indicado pelo Studio, incluindo conteúdos de diferentes formatos:
+O notebook foi desenvolvido a partir de 18 fontes de pesquisa, incluindo artigos, vídeos, entrevistas, materiais educativos e conteúdos de programas de fidelidade.
 
-- Artigos e materiais educativos sobre milhas aéreas.
-- Conteúdos sobre programas de fidelidade, como Smiles, LATAM Pass e Azul.
-- Vídeos e entrevistas com especialistas do mercado, incluindo Erik Galdino.
-- Materiais sobre acúmulo, transferência, validade e emissão de passagens.
-- Conteúdos sobre programas de pontos, como Livelo.
+**Principais fontes identificadas:**
 
-**Critério de seleção:**
+- **Guia Livelo – Principais programas de pontos no Brasil:** utilizado para conhecer os programas de pontos disponíveis no mercado brasileiro.
+- **Smiles – Validade de Milhas: tudo o que você precisa saber:** fonte ligada diretamente a um programa de fidelidade, importante para consultar regras de validade.
+- **Proteste – Milhas: o que são, como funcionam e como usar?:** conteúdo educativo para compreender os conceitos básicos sobre milhas.
+- **Administradores – Como acumular e investir em milhas, com Erik Galdino:** entrevista com especialista para conhecer estratégias e experiências do mercado.
+- **Hotmart Cast – Como Ganhar Até R$ 30 MIL com Milhas?:** conteúdo em formato de entrevista sobre oportunidades e cuidados no mercado de milhas.
+- **Viajando Barato Pelo Mundo – Como Emitir Passagem com Milhas em 2026 Sem Erro:** conteúdo prático sobre emissão de passagens.
+- **E-book Guia Definitivo das Milhas Aéreas:** material educativo para aprofundar os conhecimentos sobre o assunto.
+- **Evernote – O que é o método Construindo um segundo cérebro?:** referência sobre organização e gerenciamento do conhecimento.
 
-Foram reunidos conteúdos de programas de fidelidade, plataformas especializadas, materiais educativos e entrevistas para permitir diferentes perspectivas sobre o mercado de milhas.
+**Critérios de seleção e confiabilidade:**
 
-As informações sobre regras, validade e condições dos programas devem ser conferidas nos canais oficiais, pois podem mudar.
+As fontes foram escolhidas considerando sua relação direta com o tema, autoria identificável, especialização no assunto e finalidade educativa.
+
+Foi dada atenção especial a conteúdos de programas oficiais de fidelidade, como Livelo e Smiles, para informações sobre seus próprios serviços e regras.
+
+Entrevistas, artigos e materiais especializados foram utilizados para ampliar o conhecimento e conhecer diferentes estratégias do mercado.
+
+As informações sobre promoções, regras e validade das milhas devem ser verificadas nos canais oficiais, pois podem sofrer alterações.
 
 ## 3. Diretriz de comportamento do notebook
 
