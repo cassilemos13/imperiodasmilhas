@@ -12,28 +12,63 @@ O objetivo é compreender como aproveitar melhor os programas de fidelidade e id
 
 ## 2. Fontes utilizadas
 
-O notebook foi desenvolvido a partir de 18 fontes de pesquisa, incluindo artigos, vídeos, entrevistas, materiais educativos e conteúdos de programas de fidelidade.
+O notebook foi desenvolvido a partir de 19 fontes de pesquisa, reunindo artigos, vídeos, entrevistas, materiais educativos, conteúdos institucionais e referências sobre organização do conhecimento.
 
-**Principais fontes identificadas:**
+### 2.1 Lista completa das fontes
 
-- **Guia Livelo – Principais programas de pontos no Brasil:** utilizado para conhecer os programas de pontos disponíveis no mercado brasileiro.
-- **Smiles – Validade de Milhas: tudo o que você precisa saber:** fonte ligada diretamente a um programa de fidelidade, importante para consultar regras de validade.
-- **Proteste – Milhas: o que são, como funcionam e como usar?:** conteúdo educativo para compreender os conceitos básicos sobre milhas.
-- **Administradores – Como acumular e investir em milhas, com Erik Galdino:** entrevista com especialista para conhecer estratégias e experiências do mercado.
-- **Hotmart Cast – Como Ganhar Até R$ 30 MIL com Milhas?:** conteúdo em formato de entrevista sobre oportunidades e cuidados no mercado de milhas.
-- **Viajando Barato Pelo Mundo – Como Emitir Passagem com Milhas em 2026 Sem Erro:** conteúdo prático sobre emissão de passagens.
-- **E-book Guia Definitivo das Milhas Aéreas:** material educativo para aprofundar os conhecimentos sobre o assunto.
-- **Evernote – O que é o método Construindo um segundo cérebro?:** referência sobre organização e gerenciamento do conhecimento.
+1. [Clube de Milhas Vale a Pena? Comparativo Smiles, LATAM Pass e Azul – Todo Dia Milhas](https://tododiamilhas.com.br/clube-de-milhas-vale-a-pena/)
 
-**Critérios de seleção e confiabilidade:**
+2. [Como acumular e investir em milhas, com Erik Galdino – Café com ADM 364](https://www.administradores.com.br/podcast/como-acumular-e-investir-em-milhas-com-erik-galdino-cafe-com-adm-364)
 
-As fontes foram escolhidas considerando sua relação direta com o tema, autoria identificável, especialização no assunto e finalidade educativa.
+3. [Como acumular milhas aéreas no Brasil: 5 estratégias para o dia a dia – Unlocked Travel](https://unlockedtravel.com.br/viagens-e-milhas/como-acumular-milhas-aereas-no-brasil-5-estrategias-para-o-dia-a-dia/)
 
-Foi dada atenção especial a conteúdos de programas oficiais de fidelidade, como Livelo e Smiles, para informações sobre seus próprios serviços e regras.
+4. [Como aplicar o Método Zettelkasten para otimizar sua organização e aprendizado – Na Prática](https://napratica.org.br/noticias/metodo-zettelkasten)
 
-Entrevistas, artigos e materiais especializados foram utilizados para ampliar o conhecimento e conhecer diferentes estratégias do mercado.
+5. [Como ele transformou milhas aéreas em um negócio escalável, com Erik Galdino – Empreendedores #15](https://www.youtube.com/watch?v=JH1FJnM-Hx0)
 
-As informações sobre promoções, regras e validade das milhas devem ser verificadas nos canais oficiais, pois podem sofrer alterações.
+6. [Como Emitir Passagem com Milhas em 2026 Sem Erro – Viajando Barato Pelo Mundo](https://viajandobaratopelomundo.com.br/como-emitir-passagem-com-milhas/)
+
+7. [Como Ganhar Até R$ 30 MIL com Milhas? Dicas e Alertas de Erik Galdino – Hotmart Cast #163](https://www.youtube.com/watch?v=VU0MaYCeZVE)
+
+8. [Como viajar o mundo virou um negócio de milhões com milhas aéreas – VD Cast Ep. 209](https://www.youtube.com/watch?v=__QTJi0nghM)
+
+9. [E-book Guia Definitivo das Milhas Aéreas – Estevam Pelo Mundo](https://estevampelomundo.com.br/noticias-epm/e-book-guia-definitivo-das-milhas-aereas-baixe-gratis/)
+
+10. [Erik Galdino: biografia – Empreendedores](https://empreendedores.com.br/biografias/erik-galdino)
+
+11. [Publicação do Instagram – Reel](https://www.instagram.com/reels/DBr-uuVu7Tf/)
+
+12. [Milhas para Iniciantes: 15+ Formas Simples de Acumular e Viajar – YouTube](https://www.youtube.com/watch?v=TqBB280IgMc)
+
+13. [Milhas: o que são, como funcionam e como usar? – SeuDireito / Proteste](https://seudireito.proteste.org.br/milhas-o-que-sao-como-funcionam/)
+
+14. [Modelo Study Miles – Marketplace do Notion](https://www.notion.com/pt/templates/study-miles)
+
+15. [O que é milhas? Conheça a história desse mercado em expansão – Busca Milhas](https://buscamilhas.com/blog/mercado-de-milhas/historia-das-milhas/)
+
+16. [O que é o método Construindo um segundo cérebro? Um guia prático – Evernote](https://evernote.com/pt-br/learn/what-is-the-building-a-second-brain-method-a-practical-guide)
+
+17. [Principais programas de pontos no Brasil – Guia Livelo](https://www.livelo.com.br/principais-programas-de-pontos-brasil)
+
+18. [Uma aula sobre como viver de Milhas, com Erik Galdino – Café com ADM 364](https://www.youtube.com/watch?v=yuFlNYVMDlQ)
+
+19. [Validade de Milhas: tudo o que você precisa saber – Smiles](https://www.smiles.com.br/portal/validade-de-milhas)
+
+### 2.2 Critérios de seleção e confiabilidade
+
+As fontes foram selecionadas considerando sua relação com o tema, autoria, especialização, finalidade informativa e possibilidade de consulta.
+
+Os materiais utilizados podem ser agrupados nas seguintes categorias:
+
+- **Fontes institucionais:** Livelo e Smiles, utilizadas para consultar informações relacionadas aos seus próprios programas de fidelidade e serviços.
+- **Portais especializados:** Todo Dia Milhas, Unlocked Travel, Viajando Barato Pelo Mundo e Busca Milhas, utilizados para aprofundar conhecimentos sobre acúmulo, utilização e emissão de milhas.
+- **Conteúdos educativos:** Proteste, Estevam Pelo Mundo e outros materiais informativos, utilizados para compreender conceitos e estratégias.
+- **Entrevistas e vídeos:** conteúdos com Erik Galdino e outros participantes do mercado, utilizados para conhecer experiências, opiniões e oportunidades no setor.
+- **Fontes complementares:** Na Prática, Evernote e Notion, utilizadas para estudar organização do conhecimento e métodos de aprendizagem.
+
+A confiabilidade foi considerada de acordo com a natureza de cada fonte. Conteúdos institucionais são referências para informações sobre os próprios programas; artigos, entrevistas e vídeos são utilizados como materiais complementares de aprendizagem.
+
+Informações sobre promoções, validade
 
 ## 3. Diretriz de comportamento do notebook
 
