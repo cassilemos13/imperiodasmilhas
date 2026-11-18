@@ -101,12 +101,15 @@ As condições de cartões, programas e campanhas devem ser conferidas nos canai
 
 ## 5. Materiais produzidos
 
-No Studio do NotebookLM foram gerados:
+Durante o desenvolvimento do projeto, foram utilizados os recursos do Studio do NotebookLM para transformar as fontes de pesquisa em materiais de aprendizagem.
 
-- Mapa mental: Milhas Viagens.
-- Flashcards: Milhas Aéreas.
+**Materiais produzidos:**
 
-Outros formatos disponíveis para desenvolvimento incluem apresentações, resumos em áudio, testes e infográficos.
+- **Mapa mental:** Milhas Viagens.
+- **Flashcards:** Milhas Aéreas.
+- **Apresentação em PDF:** O Jogo Invertido das Milhas 2026.
+
+Os materiais foram utilizados para organizar, revisar e compartilhar os conhecimentos adquiridos sobre milhas aéreas, programas de fidelidade e estratégias de acúmulo.
 
 ## 6. Link do notebook
 
